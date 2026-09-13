@@ -1,15 +1,16 @@
-Olá! Eu sou a Valéria Baggio Sjekavica 👋
+## Olá! Eu sou a Valéria Baggio Sjekavica 👋
 
 💡 **Em transição de carreira para Análise de Dados**
-
+---
 
 Nascida no Brasil, criada em Uruguai e atualmente morando em Florianópolis/SC. Estudo Análise de Dados, com foco em Visualização de dados e BI, no programa SCTEC (SENAI) onde venho desenvolvendo habilidades em transformar dados em informações úteis para a tomada de decisão.
 
 ---
 
-## 🚀 Sobre mim
+## 🙋‍♀️ Sobre mim
 
-- 🎓 Estudante de Análise de Dados
+- 👩‍🎓 Formada em Análise e desenvolvimento de sistemas
+- 🎓 Transição para a área de Dados
 - 🍪 Confeiteira artesanal nas horas vagas
 - <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/5ae63bd8-d2f2-47ac-87fb-2b863b52cdc3" /> Jogadora amadora de padel
 
