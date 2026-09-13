@@ -10,7 +10,7 @@ Nascida no Brasil, criada em Uruguai e atualmente morando em Florianópolis/SC. 
 ## 🚀 Sobre mim
 
 - 🎓 Estudante de Análise de Dados
-- 🍪 Cozinheira de cookies, brownies, alfajores, chimichurri, caponata, entre outros.
+- 🍪 Confeiteira artesanal nas horas vagas
 - <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/5ae63bd8-d2f2-47ac-87fb-2b863b52cdc3" /> Jogadora amadora de padel
 
 ---
