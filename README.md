@@ -1,14 +1,14 @@
 ## Olá! Eu sou a Valéria Baggio Sjekavica 👋
-
-💡 **Em transição de carreira para Análise de Dados**
 ---
 
-Nascida no Brasil, criada em Uruguai e atualmente morando em Florianópolis/SC. Estudo Análise de Dados, com foco em Visualização de dados e BI, no programa SCTEC (SENAI) onde venho desenvolvendo habilidades em transformar dados em informações úteis para a tomada de decisão.
+💡 **Em transição de carreira para Análise de Dados**
+Estudo Análise de Dados, com foco em Visualização de dados e BI, no programa SCTEC (SENAI) onde venho desenvolvendo habilidades em transformar dados em informações úteis para a tomada de decisão.
 
 ---
 
 ## 🙋‍♀️ Sobre mim
 
+- Nascida no Brasil, criada em Uruguai e atualmente morando em Florianópolis/SC. 
 - 👩‍🎓 Formada em Análise e desenvolvimento de sistemas
 - 🎓 Transição para a área de Dados
 - 🍪 Confeiteira artesanal nas horas vagas
@@ -31,9 +31,6 @@ Nascida no Brasil, criada em Uruguai e atualmente morando em Florianópolis/SC. 
 
 ### [Miniprojeto_Valeria_T3](https://github.com/valebaggiosj/Miniprojeto_Valeria_T3)
 > Mini-Projeto avaliativo para o 1º módulo do curso de **Visualização de Dados e BI**, desenvolvido em *Python*.
-
----
-
 
 ---
 
