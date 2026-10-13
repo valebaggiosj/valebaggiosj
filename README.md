@@ -2,6 +2,7 @@
 ---
 
 💡 **Em transição de carreira para Análise de Dados**
+
 Estudo Análise de Dados, com foco em Visualização de dados e BI, no programa SCTEC (SENAI) onde venho desenvolvendo habilidades em transformar dados em informações úteis para a tomada de decisão.
 
 ---
